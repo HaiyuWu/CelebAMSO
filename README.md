@@ -17,11 +17,11 @@ Haiyu Wu, Grace Bezold, Manuel Günther, Terrance Boult, Michael C. King, [Kevin
 ### Citation
 If you use any part of our code or data, please cite our paper.
 ```
-@article{wu2023logical,
-  title={Logical Consistency and Greater Descriptive Power for Facial Hair Attribute Learning},
-  author={Wu, Haiyu and Bezold, Grace and Bhatta, Aman and Bowyer, Kevin W},
-  journal={arXiv preprint arXiv:2302.11102},
-  year={2023}
+@article{wu2022consistency,
+  title={Consistency and Accuracy of CelebA Attribute Values},
+  author={Wu, Haiyu and Bezold, Grace and G{\"u}nther, Manuel and Boult, Terrance and King, Michael C and Bowyer, Kevin W},
+  journal={arXiv preprint arXiv:2210.07356},
+  year={2022}
 }
 ```
 ### Dataset Cleaning
