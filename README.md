@@ -9,7 +9,7 @@
 This repository provides an MSO attribute cleaned version of CelebA.
 
 ## Paper details
-Haiyu Wu, Grace Bezold, Manuel Günther, Terrance Boult, Michael C. King, [Kevin W. Bowyer](https://www3.nd.edu/~kwb/), "*Consistency and Accuracy of CelebA Attribute Values*", CVPRW, 2023, [arXiv:2210.07356](https://arxiv.org/abs/2210.07356)
+[Haiyu Wu](https://haiyuwu.netlify.app/), Grace Bezold, Manuel Günther, Terrance Boult, Michael C. King, [Kevin W. Bowyer](https://www3.nd.edu/~kwb/), "*Consistency and Accuracy of CelebA Attribute Values*", CVPRW, 2023, [arXiv:2210.07356](https://arxiv.org/abs/2210.07356)
 
 ### Abstract
 > We report the first systematic analysis of the experimental foundations of facial attribute classification. Two annotators independently assigning attribute values shows that only 12 of 40 common attributes are assigned values with ≥ 95% consistency, and three (high cheekbones, pointed nose, oval face) have essentially random consistency.  Of 5,068 duplicate face appearances in CelebA, attributes have contradicting values on from 10 to 860 of the 5,068 duplicates. Manual audit of a subset of CelebA estimates error rates as high as 40% for (no beard=false), even though the labeling consistency experiment indicates that no beard could be assigned with ≥ 95% consistency. Selecting the mouth slightly open (MSO) for deeper analysis, we estimate the error rate for (MSO=true) at about 20% and (MSO=false) at about 2%. A corrected version of the MSO attribute values enables learning a model that achieves higher accuracy than previously reported for MSO.
