@@ -1,5 +1,4 @@
 # Consistency and Accuracy of CelebA Attribute Values
-## Paper accepted to the IEEE Conference on Computer Vision and Pattern Recognition Workshop (CVPRW) 2023
 <figure>
   <img src="./figures/mso_examples.png" style="width:100%">
   <figcaption>Figure 1: Examples of three annotations options, unusable images, ambiguous images, and edge images of Mouth Slightly Open (MSO) attribute.</figcaption>
@@ -17,11 +16,12 @@ This repository provides an MSO attribute cleaned version of CelebA.
 ### Citation
 If you use any part of our code or data, please cite our paper.
 ```
-@article{wu2022consistency,
-  title={Consistency and Accuracy of CelebA Attribute Values},
+@inproceedings{wu2023consistency,
+  title={Consistency and accuracy of celeba attribute values},
   author={Wu, Haiyu and Bezold, Grace and G{\"u}nther, Manuel and Boult, Terrance and King, Michael C and Bowyer, Kevin W},
-  journal={arXiv preprint arXiv:2210.07356},
-  year={2022}
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={3257--3265},
+  year={2023}
 }
 ```
 ### Dataset Cleaning
